@@ -1,0 +1,11 @@
+C:\temp\WhoSitsWhere\WhoSitsWhere\bin\Debug\WhoSitsWhere.exe.config
+C:\temp\WhoSitsWhere\WhoSitsWhere\bin\Debug\WhoSitsWhere.exe
+C:\temp\WhoSitsWhere\WhoSitsWhere\bin\Debug\WhoSitsWhere.pdb
+C:\temp\WhoSitsWhere\WhoSitsWhere\obj\Debug\WhoSitsWhere.csprojResolveAssemblyReference.cache
+C:\temp\WhoSitsWhere\WhoSitsWhere\obj\Debug\WhoSitsWhere.Form1.resources
+C:\temp\WhoSitsWhere\WhoSitsWhere\obj\Debug\WhoSitsWhere.Properties.Resources.resources
+C:\temp\WhoSitsWhere\WhoSitsWhere\obj\Debug\WhoSitsWhere.csproj.GenerateResource.Cache
+C:\temp\WhoSitsWhere\WhoSitsWhere\obj\Debug\WhoSitsWhere.csproj.CoreCompileInputs.cache
+C:\temp\WhoSitsWhere\WhoSitsWhere\obj\Debug\WhoSitsWhere.exe
+C:\temp\WhoSitsWhere\WhoSitsWhere\obj\Debug\WhoSitsWhere.pdb
+C:\temp\WhoSitsWhere\WhoSitsWhere\bin\Debug\ClsAutoUpdate.cs
